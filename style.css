@@ -295,7 +295,7 @@ i {
 
 .btn-whatsapp {
   position: fixed;
-  bottom: 14px;
+  bottom: 24px;
   right: 24px;
   z-index: 99;
 }
@@ -304,7 +304,7 @@ i {
   transition: transform 0.4s;
 }
 .btn-whatsapp img:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 .btn-whatsapp .tooltip-text {
